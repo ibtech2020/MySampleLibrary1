@@ -1,0 +1,3 @@
+include ':MathOperation'
+include ':app'
+rootProject.name = "MySampleLibrary"
